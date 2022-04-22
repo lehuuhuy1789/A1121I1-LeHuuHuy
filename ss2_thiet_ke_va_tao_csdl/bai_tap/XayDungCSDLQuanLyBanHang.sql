@@ -1,30 +1,30 @@
 create database XayDungCSDLQuanLyBanHang;
 use XayDungCSDLQuanLyBanHang;
 create table customer(
-cID int not null primary key auto_increment,
-cName varchar(50) not null,
-cAge int not null
+c_id int not null primary key auto_increment,
+c_name varchar(50) not null,
+c_age int not null
 );
 
 create table product(
-pID int not null primary key auto_increment,
-pName  varchar(50) not null,
-pPrice double not null
+p_id int not null primary key auto_increment,
+p_name  varchar(50) not null,
+p_price double not null
 );
 
 create table `order`(
-oID int not null primary key auto_increment,
-cID int not null,
-oDate date not null,
-oTotalPrice double not null,
-foreign key(cID) references customer(cID)
+o_id int not null primary key auto_increment,
+c_id int not null,
+o_date date not null,
+o_total_price double not null,
+foreign key(c_id) references customer(c_id)
 );
 
 create table order_detail(
-oID int not null,
-pID int not null,
-odQTY int not null,
-primary key(oID,pID),
-foreign key(oID) references `order`(oID),
-foreign key(pID) references product(pID)
+o_id int not null,
+p_id int not null,
+odqty int not null,
+primary key(o_id,p_id),
+foreign key(o_id) references `order`(o_id),
+foreign key(p_id) references product(p_id)
 );
