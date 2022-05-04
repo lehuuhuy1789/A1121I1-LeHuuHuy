@@ -21,3 +21,4 @@ select student.student_id, student.student_name, student.address, student.phone,
 inner join mark on student.student_id = mark.student_id 
 group by student.student_id 
 order by avg(mark) desc;
+
