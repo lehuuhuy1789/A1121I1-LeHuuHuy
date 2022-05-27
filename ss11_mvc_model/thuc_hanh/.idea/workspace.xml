@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de88267f-b682-492b-a9d9-d1620048a99c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ss10_jsp_va_jstl/bai_tap/hien_thi_danh_sach_khach_hang/src/main/java/controller/CustomerServiceServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss10_jsp_va_jstl/bai_tap/hien_thi_danh_sach_khach_hang/src/main/java/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss10_jsp_va_jstl/bai_tap/hien_thi_danh_sach_khach_hang/src/main/java/repository/ICustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss10_jsp_va_jstl/bai_tap/hien_thi_danh_sach_khach_hang/src/main/java/repository/impl/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss10_jsp_va_jstl/bai_tap/hien_thi_danh_sach_khach_hang/src/main/java/service/ICustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss10_jsp_va_jstl/bai_tap/hien_thi_danh_sach_khach_hang/src/main/java/service/impl/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss10_jsp_va_jstl/thuc_hanh/ung_dung_chuyen_doi_tien_te_jsp/src/main/webapp/converter.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss10_jsp_va_jstl/thuc_hanh/ung_dung_tu_dien_don_gian_jsp/src/main/webapp/dictionary.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/TaoUngDungQuanLiSanPham/src/main/java/controller/ProductServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/TaoUngDungQuanLiSanPham/src/main/java/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/TaoUngDungQuanLiSanPham/src/main/java/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/TaoUngDungQuanLiSanPham/src/main/java/service/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/TaoUngDungQuanLiSanPham/src/main/webapp/product/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/TaoUngDungQuanLiSanPham/src/main/webapp/product/delete.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/TaoUngDungQuanLiSanPham/src/main/webapp/product/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/TaoUngDungQuanLiSanPham/src/main/webapp/product/find.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/TaoUngDungQuanLiSanPham/src/main/webapp/product/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/TaoUngDungQuanLiSanPham/src/main/webapp/product/view.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UngDungQuanLiKhachHang/src/main/java/controller/CustomerServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UngDungQuanLiKhachHang/src/main/java/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UngDungQuanLiKhachHang/src/main/java/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UngDungQuanLiKhachHang/src/main/java/service/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UngDungQuanLiKhachHang/src/main/webapp/customer/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UngDungQuanLiKhachHang/src/main/webapp/customer/delete.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UngDungQuanLiKhachHang/src/main/webapp/customer/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UngDungQuanLiKhachHang/src/main/webapp/customer/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UngDungQuanLiKhachHang/src/main/webapp/customer/view.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UngDungQuanLiKhachHang/src/main/webapp/error-404.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss12_jdbc_va_crud/thuc_hanh/QuanLiUserSuDungJSPServletJDBCMySQL/src/main/java/controller/UserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss12_jdbc_va_crud/thuc_hanh/QuanLiUserSuDungJSPServletJDBCMySQL/src/main/java/dao/IUserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss12_jdbc_va_crud/thuc_hanh/QuanLiUserSuDungJSPServletJDBCMySQL/src/main/java/dao/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss12_jdbc_va_crud/thuc_hanh/QuanLiUserSuDungJSPServletJDBCMySQL/src/main/java/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss12_jdbc_va_crud/thuc_hanh/QuanLiUserSuDungJSPServletJDBCMySQL/src/main/webapp/user/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss12_jdbc_va_crud/thuc_hanh/QuanLiUserSuDungJSPServletJDBCMySQL/src/main/webapp/user/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss12_jdbc_va_crud/thuc_hanh/QuanLiUserSuDungJSPServletJDBCMySQL/src/main/webapp/user/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thi_module3/src/main/java/model/DanhSachBenhAn.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="27phUjsUPC522w0tGyYd67YJueM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ss10_jsp_va_jstl/bai_tap" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de88267f-b682-492b-a9d9-d1620048a99c" name="Default Changelist" comment="" />
+      <created>1650022952225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650022952225</updated>
+      <workItem from="1650022953363" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1650022989512">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1650022989512" />
+  </component>
+</project>
