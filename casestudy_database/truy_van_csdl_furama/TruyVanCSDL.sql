@@ -1,7 +1,7 @@
 use furama;
 -- Task 1: Thêm mới thông tin cho tất cả các bảng có trong CSDL để có thể thoả mãn các yêu cầu bên dưới.
 insert into vi_tri values(1,"Quản Lý"),(2,"Nhân Viên");
-insert into trinh_do values 
+insert into trinh_do values
 (1,"Trung Cấp"),
 (2,"Cao Đẳng"),
 (3,"Đại Học"),
@@ -287,7 +287,6 @@ select * from cap_nhat_gia_dich_vu_di_kem_temp;
 select ma_nhan_vien as id, ho_ten, email, so_dien_thoai, ngay_sinh, dia_chi from nhan_vien
 union
 select ma_khach_hang as id, ho_ten, email, so_dien_thoai, ngay_sinh, dia_chi from khach_hang;
-
 
 
 
